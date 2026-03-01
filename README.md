@@ -1,3 +1,5 @@
+This is the main project that I am building from scratch, with minimal help from A.I (not vibe coded).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
