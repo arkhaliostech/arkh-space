@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button'
 import React from 'react'
 
-const Page = () => {
+const Page = () => { // Landing Page
   return (
     <div>
       <h1 className="text=2x1 underline">Welcome to Arkh Space</h1>
